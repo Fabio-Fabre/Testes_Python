@@ -1,2 +1,2 @@
-# Testes_Python
-Exercícios de programação utilizando a linguagem python.
+# teste_clonando_repositorio
+Aprendendo a clonar um repositório remoto.
